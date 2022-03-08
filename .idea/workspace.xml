@@ -174,17 +174,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Alibaba Cloud Explorer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Alibaba Cloud View" weight="0.32959184" />
-      <window_info anchor="bottom" id="Version Control" sideWeight="0.49511003" weight="0.32959184" />
+      <window_info anchor="bottom" id="Version Control" sideWeight="0.4932763" weight="0.32959184" />
       <window_info anchor="bottom" id="Python Console" sideWeight="0.4987775" weight="0.32959184" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49511003" visible="true" weight="0.32959184" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50488997" side_tool="true" visible="true" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49205378" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5079462" side_tool="true" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
