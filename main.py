@@ -7,4 +7,7 @@ def func1(a,b):
 
 c = func1(5,10)
 
-print(c)
+
+a = func1(10,10)
+
+print(a)
